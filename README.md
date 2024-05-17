@@ -14,3 +14,21 @@ You can click the Preview link to take a look at your changes.
 - Holds a degree in Food Engineering from the University of São Paulo, USP, with a focus on Quality, Production, and Processes, and experience in process optimization projects;
 - Responsible for managing key performance indicators (number of complaints, product quality index, and quality routes), risk assessment, and strategic planning, showcasing essential analytical skills in technological data analysis environments;
 - Additionally, implemented a statistical weight control system, demonstrating knowledge of statistical methods, a relevant competence for data analysis and quality control in the industry.- -
+
+- Bootcamp Python Data Analytics SquadioBootcamp Python Data Analytics Squadio
+- Competências: Análise de Big Data · Ciência de dados · Python · Big data · ciencia de dados · pythom · Análise de negócios · Banco de dadosCompetências: Análise de Big Data · Ciência de dados · Python · Big data · ciencia de dados · pythom · Análise de negócios · Banco de dados
+
+- Lean Six Sigma White BeltLean Six Sigma White Belt
+- Competências: Seis Sigma · Lean Six Sigma · Projetos para Seis Sigma (DFSS)Competências: Seis Sigma · Lean Six Sigma · Projetos para Seis Sigma (DFSS)
+
+- Lean Six Sigma White Belt Professional Certification LSSWBPC - (SpanisLean Six Sigma White Belt Professional Certification LSSWBPC - (Spanis
+
+- CyberSecurity EssentialsCyberSecurity Essentials
+- Scrum Foundation Professional Certification - SFPC™Scrum Foundation Professional Certification - SFPC™
+Competências: Planejamento de projetos · metodologia scrum · Gestão ágil de projetosCompetências: Planejamento de projetos · metodologia scrum · Gestão ágil de projetos
+
+SCRUMstudy - Accreditation Body for Scrum and AgileSCRUMstudy - Accreditation Body for Scrum and Agile
+Competências: Metodologias AgileCompetências: Metodologias Agile
+
+- Excel AvançadoExcel Avançado
+
